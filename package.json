@@ -1,0 +1,14 @@
+{
+  "name": "techsolutions-html-1.0.0",
+  "version": "1.0.0",
+  "description": "Projeto_Teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "commit eaede6ba6ed5ec362967a8668f7071dbbd6c4f67"
+  ],
+  "author": "Vasseur",
+  "license": "ISC"
+}
